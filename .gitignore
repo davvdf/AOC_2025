@@ -1,1 +1,3 @@
-*input*
+# Ignore all puzzle input files
+input.txt
+input.csv
